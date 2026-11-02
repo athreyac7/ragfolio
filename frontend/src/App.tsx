@@ -14,10 +14,9 @@ export default function App() {
       <Header />
       <main className="flex-1">
         <Hero />
-        <Chatbot />
-        <About />
-        <Skills />
-        <Experience />
+        <Cha 
+          
+          ence />
         <Projects />
         <Education />
       </main>
